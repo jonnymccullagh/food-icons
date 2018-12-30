@@ -2,7 +2,9 @@
 ## Food Icons
 
 Some food-related icons created using Inkscape and converted to 
-a web usable CSS font (like fontawesome) using [![Font Custom](https://github.com/FontCustom/fontcustom)
+a web usable CSS font (like fontawesome) using ![Font Custom](https://github.com/FontCustom/fontcustom)
+
+![Sample](sample.png)
 
 ### Usage
 
