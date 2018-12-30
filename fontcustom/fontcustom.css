@@ -1,0 +1,68 @@
+/*
+  Icon Font: fontcustom
+*/
+
+@font-face {
+  font-family: "fontcustom";
+  src: url("./fontcustom_052a461a7a9002c17a38502768934b51.eot");
+  src: url("./fontcustom_052a461a7a9002c17a38502768934b51.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_052a461a7a9002c17a38502768934b51.woff2") format("woff2"),
+       url("./fontcustom_052a461a7a9002c17a38502768934b51.woff") format("woff"),
+       url("./fontcustom_052a461a7a9002c17a38502768934b51.ttf") format("truetype"),
+       url("./fontcustom_052a461a7a9002c17a38502768934b51.svg#fontcustom") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "fontcustom";
+    src: url("./fontcustom_052a461a7a9002c17a38502768934b51.svg#fontcustom") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.icon-box:before,
+.icon-chicken_leg:before,
+.icon-clock:before,
+.icon-cookcoolreheat:before,
+.icon-cup:before,
+.icon-cup_hot:before,
+.icon-food_serve:before,
+.icon-frying:before,
+.icon-lemon:before,
+.icon-pot_hot:before,
+.icon-scales:before,
+.icon-snowflake:before,
+.icon-thermometer:before,
+.icon-timer:before {
+  display: inline-block;
+  font-family: "fontcustom";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.icon-box:before { content: "\f100"; }
+.icon-chicken_leg:before { content: "\f101"; }
+.icon-clock:before { content: "\f102"; }
+.icon-cookcoolreheat:before { content: "\f103"; }
+.icon-cup:before { content: "\f104"; }
+.icon-cup_hot:before { content: "\f105"; }
+.icon-food_serve:before { content: "\f106"; }
+.icon-frying:before { content: "\f107"; }
+.icon-lemon:before { content: "\f108"; }
+.icon-pot_hot:before { content: "\f109"; }
+.icon-scales:before { content: "\f10a"; }
+.icon-snowflake:before { content: "\f10d"; }
+.icon-thermometer:before { content: "\f10b"; }
+.icon-timer:before { content: "\f10c"; }

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="72"
+   height="72"
+   viewBox="0 0 72.000002 72.000002"
+   id="svg9323"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="food_serve.svg">
+  <defs
+     id="defs9325" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="-1.8215364"
+     inkscape:cy="58.640206"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata9328">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-980.36219)">
+    <g
+       id="g11071">
+      <path
+         id="path4626"
+         d="m 36.923645,989.22898 c -2.549424,0 -4.638254,3.2747 -4.973448,7.54739 A 33.505318,37.181266 0 0 0 4.4889308,1024.3274 l 64.8694292,0 A 33.505318,37.181266 0 0 0 41.895784,996.76776 c -0.337339,-4.26839 -2.424435,-7.53878 -4.972139,-7.53878 z"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:18.01499939;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <rect
+         ry="5.0783501e-06"
+         rx="8.2705202"
+         y="1029.5087"
+         x="1.5870923"
+         height="7.4153495"
+         width="70.361168"
+         id="rect4631"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:18.01499939;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

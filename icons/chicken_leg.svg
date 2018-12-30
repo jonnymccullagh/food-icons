@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="34.077251mm"
+   height="35.879646mm"
+   viewBox="0 0 120.74617 127.1326"
+   id="svg5287"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="chicken_leg.svg">
+  <defs
+     id="defs5289" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-296.30775"
+     inkscape:cy="654.0529"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5292">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-238.4506,-1059.2825)">
+    <g
+       id="g4620"
+       transform="matrix(0.95186794,0,0,0.95186794,-32.831762,942.80011)">
+      <circle
+         r="17.5"
+         cy="224.8622"
+         cx="302.5"
+         id="path4591"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:18.01499939;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:18.01499939;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4593"
+         cx="320.71429"
+         cy="238.43362"
+         r="17.5" />
+      <rect
+         transform="matrix(0.82060992,0.57148873,-0.59522083,0.80356217,0,0)"
+         ry="16.53018"
+         rx="12.34207"
+         y="-76.353874"
+         x="377.40945"
+         height="85.547913"
+         width="24.684139"
+         id="rect4595"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:18.01499939;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path4599"
+         d="m 362.54492,122.38281 c -7.07364,0.22529 -14.26974,4.03304 -19.05859,8.86328 -14.65553,14.78215 -24.17305,36.53095 -22.59571,56.61524 0.54719,6.96728 5.07334,13.8885 10.82227,18.36328 5.28209,4.11139 12.72442,6.70561 19.57227,6.10156 21.42877,-1.89022 44.31858,-12.79504 56.32617,-29.46484 4.59483,-6.37886 5.19337,-14.88956 3.05078,-22.88086 -2.14259,-7.99131 -16.28125,-21.55078 -16.28125,-21.55078 0,0 -18.78505,-15.60757 -30.42383,-16.04297 -0.46973,-0.0176 -0.94053,-0.0189 -1.41211,-0.004 z m 20.45899,20.22657 c 0.19001,0.0155 0.37999,0.0301 0.56836,0.0547 0.25481,0.0331 0.50889,0.074 0.75976,0.125 6.21782,1.25205 14.94922,11.28321 14.94922,11.28321 0,0 6.41452,8.52504 6.86719,13.00781 0.45267,4.48277 -0.6149,9.00643 -3.64258,12.0332 -1.88281,1.88223 -4.06994,3.53081 -6.46484,4.94531 0.41097,-0.37578 0.81488,-0.75636 1.20507,-1.14843 3.68395,-3.70173 4.98313,-9.22783 4.4375,-14.70508 -0.54565,-5.47726 -8.33203,-15.88867 -8.33203,-15.88867 0,0 -4.86311,-5.60754 -10.34765,-9.70703 z"
+         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
